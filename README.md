@@ -43,7 +43,7 @@
 
 **Vyraxis** — Co-founder · AI-powered SaaS studio for Latin America
 
-&nbsp;&nbsp;&nbsp;↳ **[Leakline](https://github.com/ibertoglia002/Leakline)** — pharmacy management SaaS · AI patient engagement via WhatsApp · RAG + pgvector · Next.js + Supabase
+&nbsp;&nbsp;&nbsp;↳ **[Leakline](https://github.com/ibertoglia002/Leakline)** — AI Pharmacy revenue intelligence platform
 
 ---
 
