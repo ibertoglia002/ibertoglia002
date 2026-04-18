@@ -2,7 +2,7 @@
 
 **Senior Analytics & Data Professional · AI Implementation · Data Engineering**
 
-5+ years turning data into measurable outcomes across healthcare, technology, and consulting. Currently building at McKinsey & Company and ICU Medical while shipping production SaaS on the side.
+5+ years turning data into measurable outcomes across healthcare, technology, and consulting. Co-founder of **Vyraxis** — building AI-powered SaaS for Latin America. Currently also at McKinsey & Company and ICU Medical.
 
 ---
 
@@ -41,7 +41,9 @@
 
 ### Currently building
 
-**[Leakline](https://github.com/ibertoglia002/Leakline)** — pharmacy management SaaS · AI patient engagement via WhatsApp · RAG + pgvector · Next.js + Supabase
+**Vyraxis** — Co-founder · AI-powered SaaS studio for Latin America
+
+&nbsp;&nbsp;&nbsp;↳ **[Leakline](https://github.com/ibertoglia002/Leakline)** — pharmacy management SaaS · AI patient engagement via WhatsApp · RAG + pgvector · Next.js + Supabase
 
 ---
 
