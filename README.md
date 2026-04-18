@@ -19,7 +19,7 @@ Building products at the intersection of software engineering and data.
 
 ### Currently Building
 
-- **[Leakline](https://github.com/ibertoglia002/Leakline)** — pharmacy management SaaS with AI-powered patient engagement (WhatsApp, RAG, vector search)
+- **[Leakline](https://github.com/ibertoglia002/Leakline)** — pharmacy management SaaS with AI-powered patient engagement
 
 ---
 
