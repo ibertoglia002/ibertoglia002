@@ -41,7 +41,7 @@
 
 ### Currently building
 
-**Vyraxis** — Co-founder · AI-powered SaaS studio for Latin America
+**Vyraxis** — Co-founder · Transforming Fragmented Operations into Intelligent, Automated Systems
 
 &nbsp;&nbsp;&nbsp;↳ **[Leakline](https://github.com/ibertoglia002/Leakline)** — AI Pharmacy revenue intelligence platform
 
